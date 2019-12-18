@@ -8,7 +8,7 @@ echo Starting chrome...
 ::路径改成自己相应的
 start "" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" www.google.com
 ```
-将上面.bat文件放到Windows==启动目录==下：
+将上面.bat文件放到Windows**启动目录**下：
 ```
 C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 ```
